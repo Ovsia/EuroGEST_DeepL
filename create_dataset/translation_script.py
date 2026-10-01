@@ -22,7 +22,8 @@ GENDERED_LANGS = {
 NEUTRAL_LANGS = {
     'Danish': 'da', 'Dutch': 'nl', 'Estonian': 'et', 'Finnish': 'fi',
     'Hungarian': 'hu', 'Irish': 'ga', 'Swedish': 'sv',
-    'Norwegian': 'no', 'Turkish': 'tr'
+    'Norwegian': 'no', 'Turkish': 'tr', 'Indonesian': 'id',
+    'Chinese': 'zh'
 }
 
 ALL_LANGS = {**GENDERED_LANGS, **NEUTRAL_LANGS}
